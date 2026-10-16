@@ -1,0 +1,3 @@
+C# là ngôn ngữ lập trình.
+C# giúp xây dựng ứng dụng.
+Lập trình C# rất thú vị.
